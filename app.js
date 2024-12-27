@@ -1,12 +1,6 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDVj43BVfL5cEU_xjDiksgZF69V5UTePys",
-  authDomain: "rollcall-19346.firebaseapp.com",
-  projectId: "rollcall-19346",
-  storageBucket: "rollcall-19346.firebasestorage.app",
-  messagingSenderId: "837743806566",
-  appId: "1:837743806566:web:457c4ebcd71d36cd2ac5a7",
-  measurementId: "G-D2V1BTY7YD"
+
 };
 // Initialize Firebase
 const app = firebase.initializeApp(firebaseConfig);
